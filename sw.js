@@ -6,7 +6,8 @@ var filesToCache = [
     '/offline2.html',
     '/css/style.css',
     '/js/main.js',
-    '/images/PWA.png'
+    '/images/PWA.png',
+    '/images/img1.jpeg'
 ];
 
 /* Start the service worker and cache all of the app's content */
